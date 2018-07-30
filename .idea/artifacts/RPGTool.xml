@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RPGTool">
+    <output-path>$PROJECT_DIR$/out/artifacts/RPGTool</output-path>
+    <root id="archive" name="RPGTool.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="RPGTool" />
+    </root>
+  </artifact>
+</component>
